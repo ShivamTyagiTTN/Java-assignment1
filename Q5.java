@@ -1,3 +1,5 @@
+// Q5. Find common elements between two arrays.
+
 import java.util.ArrayList;
 
 public class Q5 {
