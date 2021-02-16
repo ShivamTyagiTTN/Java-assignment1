@@ -1,3 +1,5 @@
+//Q2. Write a program to find the number of occurrences of the duplicate words in a string and print them ?
+
 public class Q2 {
     public static void main(String[] args) {
 
