@@ -1,3 +1,6 @@
+//Q.1 Write a program to replace a substring inside a string with another string ?
+
+
 public class Q1 {
     public static void main(String[] args) {
         String str = "This is a test string";
