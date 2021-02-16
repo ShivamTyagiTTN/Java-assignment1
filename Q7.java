@@ -1,3 +1,5 @@
+// Q7. Write a program to print your Firstname,LastName & age using static block,static method & static variable respectively
+
 public class Q7
 {
     static String firstName;
