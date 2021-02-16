@@ -1,3 +1,5 @@
+// Q9.Write a program to display values of enums using a constructor & getPrice() method (Example display house & their prices)
+
 enum phone {
     Samsung(50000),Apple(70000),Xiaomi(15000),OnePlus(30000),realme(12000);
     private int price;
